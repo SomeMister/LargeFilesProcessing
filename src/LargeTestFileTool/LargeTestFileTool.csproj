@@ -5,10 +5,13 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <AssemblyName>LargeTestFileTool</AssemblyName>
+    <RootNamespace>LargeTestFileTool</RootNamespace>
+
   </PropertyGroup>
 
   <ItemGroup>
-  <Compile Remove="LargeTestFileTool.Tests\**\*.cs" />
 </ItemGroup>
 
 

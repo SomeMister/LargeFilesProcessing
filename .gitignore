@@ -1,8 +1,9 @@
-/bin
-/obj
-files/input_data.txt
-files/sorted_output_512_128_2_000127.txt
-files/sorted_output_1024_2_128_000136.txt
-files/sorted_output_1024_128_4_000134.txt
-LargeTestFileTool.Tests/obj
-LargeTestFileTool.Tests/bin
+# build
+/src/**/bin/
+/src/**/obj/
+/tests/**/bin/
+/tests/**/obj/
+
+# outputs
+/files/*
+!/files/.gitkeep

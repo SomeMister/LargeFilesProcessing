@@ -1,5 +1,3 @@
-using System.IO;
-
 namespace LargeTestFileTool.Infrastructure;
 
 internal static class ProjectPaths
