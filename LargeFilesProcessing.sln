@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeFilesProcessing", "LargeFilesProcessing.csproj", "{AF4B3D0C-A3F6-F548-319B-14CC8DD76176}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeTestFileTool", "src\LargeTestFileTool\LargeTestFileTool.csproj", "{AF4B3D0C-A3F6-F548-319B-14CC8DD76176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeTestFileTool.Tests", "LargeTestFileTool.Tests\LargeTestFileTool.Tests.csproj", "{B4508096-3B0D-4B42-AEFA-F36B0FD30DC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeTestFileTool.Tests", "tests\LargeTestFileTool.Tests\LargeTestFileTool.Tests.csproj", "{B4508096-3B0D-4B42-AEFA-F36B0FD30DC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

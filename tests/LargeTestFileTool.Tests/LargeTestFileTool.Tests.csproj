@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LargeFilesProcessing.csproj" />
+    <ProjectReference Include="..\..\src\LargeTestFileTool\LargeTestFileTool.csproj" />
   </ItemGroup>
 
 </Project>
